@@ -60,7 +60,7 @@ curl_close($curl);
      <script src="https://code.jquery.com/jquery-3.6.0.min.js" charset="utf-8"></script>
   </head>
   <body>
-    <h1>KCP Bank Transfer Simple Sample</h1>
+    <h1>KCP Card Simple Sample</h1>
 
     <div id="kcp_component"></div>
 
