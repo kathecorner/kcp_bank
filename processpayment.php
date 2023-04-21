@@ -29,7 +29,8 @@ $additional_data = [
     'storePaymentMethod'=> true,
     'shopperInteraction'=> 'ContAuth',
     'recurringProcessingModel'=> 'CardOnFile',
-    'shopperReference'=> 'Shopper_02222022_1'
+    'shopperReference'=> 'Shopper_02222022_1',
+    'shopperEmail'=> 'Shopper_2023@testmail.com'
 ];
 
 $final_payment_data = array_merge($payments_data, $additional_data);
